@@ -13,7 +13,7 @@ xp: 100
 skills: 1
 ```
 
-wykonaj polecenie w oknie obok	
+wykonaj polecenie w oknie obok
 
 `@instructions`
 wykonaj polecenie w oknie obok
