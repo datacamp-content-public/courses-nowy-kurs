@@ -1,6 +1,7 @@
 ---
 title: 'ćwiczenie 1'
 description: ""
+free_preview: true
 ---
 
 ## Example coding exercise
